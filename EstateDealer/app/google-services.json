@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "534980946520",
+    "firebase_url": "https://estate-dealer.firebaseio.com",
+    "project_id": "estate-dealer",
+    "storage_bucket": "estate-dealer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534980946520:android:be3eb40c91c1f3a2",
+        "android_client_info": {
+          "package_name": "com.example.harin.estatedealer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534980946520-1h1trlpeof9l0v2ptl5aho7uahj3epsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harin.estatedealer",
+            "certificate_hash": "b3223ecb43a1f5067cabaf38fe8e5d4f0c8c4c62"
+          }
+        },
+        {
+          "client_id": "534980946520-4tm4q4h7vg392foe6q9j4sa4ckrqk3ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdeROXdUi1wwtm3pMsDLsU15E2UwQKM3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534980946520-4tm4q4h7vg392foe6q9j4sa4ckrqk3ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534980946520:android:5bc20c5a34bbd7bf",
+        "android_client_info": {
+          "package_name": "com.example.harin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534980946520-2o1nhak9ire7atfhdi65nni8pc52i4af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harin.myapplication",
+            "certificate_hash": "b3223ecb43a1f5067cabaf38fe8e5d4f0c8c4c62"
+          }
+        },
+        {
+          "client_id": "534980946520-4tm4q4h7vg392foe6q9j4sa4ckrqk3ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdeROXdUi1wwtm3pMsDLsU15E2UwQKM3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534980946520-4tm4q4h7vg392foe6q9j4sa4ckrqk3ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
